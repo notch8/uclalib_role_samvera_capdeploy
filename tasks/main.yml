@@ -49,7 +49,7 @@
   tags:
     - logrotate-setup
 
-- name: Execute the capistrano deploy process
-  import_tasks: capistrano_deploy.yml
-  tags:
-    - capistrano-deploy
+#- name: Execute the capistrano deploy process
+#  import_tasks: capistrano_deploy.yml
+#  tags:
+#    - capistrano-deploy
